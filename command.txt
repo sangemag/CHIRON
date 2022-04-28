@@ -2,3 +2,4 @@ git add command.txt
 git commit -m <message>
 git diff command.txt
 git status
+git diff command.txt
