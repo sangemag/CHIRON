@@ -1,10 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include "logfiletest.h"
-
-
-
-int main(void)
+int main()
 {
     char *fp = NULL;
     int i = 0;
