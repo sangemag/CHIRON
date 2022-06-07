@@ -5,7 +5,7 @@
             "includePath": [
                 "${workspaceFolder}/**",
                 "D:\\App\\VS2013\\VC\\include",
-				"D:\GitRepository\Ccode"
+				"D:\\GitRepository\\Ccode"
             ],
             "defines": [
                 "_DEBUG",

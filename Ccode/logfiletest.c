@@ -28,5 +28,6 @@ int LOG_Init(char *fname)
         perror(":");
         return -1;
     }
+    return 0;
 
 }
