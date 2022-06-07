@@ -4,8 +4,6 @@
 #define LOG_FILE_NAME "D:\\GitRepository\\Ccode"
 static char g_LogfilName[128] = {0};
 
-extern int LOG_Init(char *fname);
-
 int LOG_Init(char *fname)
 {
 //     FILE  *fp = NULL;
