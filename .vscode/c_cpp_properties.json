@@ -4,7 +4,8 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/**",
-                "D:\\App\\VS2013\\VC\\include"
+                "D:\\App\\VS2013\\VC\\include",
+				"D:\GitRepository\Ccode"
             ],
             "defines": [
                 "_DEBUG",

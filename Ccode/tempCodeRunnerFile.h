@@ -1,0 +1,1 @@
+extern int LOG_Init(char *fname);
