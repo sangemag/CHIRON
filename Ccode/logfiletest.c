@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include "logfiletest.h"
-#define LOG_FILE_NAME "D:\GitRepository\Ccode"
+#define LOG_FILE_NAME "D:\\GitRepository\\Ccode"
 static char g_LogfilName[128] = {0};
 
 int LOG_Init(char *fname)
