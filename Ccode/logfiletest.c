@@ -15,7 +15,7 @@ int LOG_Init(char *fname)
     }
     else
     {
-        snprintf(g_LogfilName,sizeof(g_LogfilName)-1,"%s",LOG_FILE_NAME);
+        sprintf(g_LogfilName,sizeof(g_LogfilName)-1,"%s",LOG_FILE_NAME);
     }
     fp = fopen(g_LogfilName,"rb");
     if(NULL== fp)

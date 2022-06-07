@@ -1,1 +1,1 @@
-LOG_Init
+snprintf
