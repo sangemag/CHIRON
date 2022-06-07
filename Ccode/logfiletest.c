@@ -31,3 +31,6 @@ int LOG_Init(char *fname)
     return 0;
 
 }
+
+
+
