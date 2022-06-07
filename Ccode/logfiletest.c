@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-#include "logfiletest.h"
+//#include "logfiletest.h"
 #define LOG_FILE_NAME "D:\\GitRepository\\Ccode"
 static char g_LogfilName[128] = {0};
 
