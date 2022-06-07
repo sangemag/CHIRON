@@ -1,1 +1,1 @@
-logfiletest
+LOG_Init
